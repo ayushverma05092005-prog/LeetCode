@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1701-average-waiting-time](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1701-average-waiting-time](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
