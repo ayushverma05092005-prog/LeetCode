@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
