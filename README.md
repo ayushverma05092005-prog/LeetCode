@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1701-average-waiting-time](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
