@@ -13,6 +13,7 @@
 | [1701-average-waiting-time](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
