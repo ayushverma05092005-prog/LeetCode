@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0836-rectangle-overlap](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -117,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
