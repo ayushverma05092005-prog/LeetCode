@@ -28,6 +28,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -126,4 +128,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
