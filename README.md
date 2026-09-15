@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1701-average-waiting-time](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -41,10 +42,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +63,7 @@
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
