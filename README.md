@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -30,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
