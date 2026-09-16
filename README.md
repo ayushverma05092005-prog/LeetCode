@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -33,6 +34,7 @@
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -169,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
