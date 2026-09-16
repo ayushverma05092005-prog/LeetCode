@@ -28,6 +28,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Hash Table
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -137,6 +139,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
