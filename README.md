@@ -32,6 +32,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -163,4 +165,8 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
