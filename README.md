@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -33,6 +34,7 @@
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -99,6 +101,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +151,12 @@
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
