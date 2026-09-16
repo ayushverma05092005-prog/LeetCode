@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0518-coin-change-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -36,6 +37,7 @@
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Hash Table
@@ -155,8 +157,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
