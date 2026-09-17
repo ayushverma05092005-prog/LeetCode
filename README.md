@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -182,4 +183,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
