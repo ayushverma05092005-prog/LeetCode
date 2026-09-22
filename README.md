@@ -34,6 +34,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
@@ -146,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -187,6 +189,11 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
