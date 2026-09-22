@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -58,14 +59,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Math
@@ -85,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
