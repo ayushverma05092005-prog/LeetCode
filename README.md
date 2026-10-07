@@ -131,6 +131,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
