@@ -60,6 +60,7 @@
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0344-reverse-string](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@
 | [0020-valid-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0344-reverse-string](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
