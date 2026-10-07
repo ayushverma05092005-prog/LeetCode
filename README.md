@@ -79,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0326-power-of-three](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0326-power-of-three/) | Easy |
@@ -168,6 +169,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0326-power-of-three](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
