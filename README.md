@@ -68,6 +68,7 @@
 | [0321-create-maximum-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0344-reverse-string](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +221,5 @@
 | [0020-valid-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
