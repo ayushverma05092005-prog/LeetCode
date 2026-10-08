@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -108,6 +109,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0078-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
