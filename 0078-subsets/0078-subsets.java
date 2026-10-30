@@ -1,15 +1,17 @@
 class Solution {
-    public void ss(int [] nums,List<List<Integer>> ans,int i,List<Integer> curr){
-        if(i==nums.length) {ans.add(new ArrayList<>(curr)); return ;}
+    public void solve(int[] nums,int i,List<List<Integer>> ans, List<Integer> curr){
+        if(i==nums.length){
+            ans.add(new ArrayList<>(curr));
+            return ;
+        }
         curr.add(nums[i]);
-        ss(nums,ans,i+1,curr);
+        solve(nums,i+1,ans,curr);
         curr.remove(curr.size()-1);
-        ss(nums,ans,i+1,curr);
-
+        solve(nums,i+1,ans,curr);
     }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
-        ss(nums,ans,0,new ArrayList<>());
+        solve(nums,0,ans,new ArrayList<>());
         return ans;
     }
 }
