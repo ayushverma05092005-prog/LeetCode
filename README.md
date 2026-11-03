@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Two Pointers
@@ -166,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
@@ -216,6 +218,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
