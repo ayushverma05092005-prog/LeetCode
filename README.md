@@ -43,6 +43,7 @@
 | [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -171,6 +172,7 @@
 | [0020-valid-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -223,6 +225,7 @@
 | [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
