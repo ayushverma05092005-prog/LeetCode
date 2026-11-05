@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -123,6 +124,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -171,6 +173,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -213,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0079-word-search/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +229,7 @@
 | [0039-combination-sum](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ayushverma05092005-prog/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
